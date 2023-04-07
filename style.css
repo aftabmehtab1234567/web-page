@@ -1,0 +1,47 @@
+/*background-image*/
+.hero-image {
+    background-image: url("background.jpg");
+    
+    height: 100%;
+    position:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 1%;
+
+  }
+  /*css for content*/
+  .apk{
+    color:white;
+    font-size:1.6rem;
+    margin-top:20%;
+  }
+  /*css another content*/
+  .apk2{
+    color:white;
+    font-size:5.5rem;
+  }
+  /*for column css*/
+  .p-3{
+    background-color: white;
+    margin-top:2%;
+    color:black;
+  }
+  /*css for title*/
+  .c{
+    margin-top:20%;
+  }
+  /*image div css*/
+  .zx{
+    background-color:#B8B8B8;
+    border-radius: 50%;
+    height:80px;
+    width:80px;
+    margin-left:28%;
+  }
+  /*css for image*/
+  .zx1{
+    margin-top:20px;
+  }
+  
+  
+  

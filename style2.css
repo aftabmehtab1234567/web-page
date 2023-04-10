@@ -1,0 +1,45 @@
+
+
+.za{
+    color:black;
+    font-size:205%;
+    margin-top:8%;
+    color:white;
+    font-weight:700;
+    margin-left:13%;
+}
+.za1{
+    color:white;
+    font-weight:700;
+    margin-left:13%;
+}
+.sm1{
+    background-image: url("banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:1.5;
+}
+.sm2{
+    background-color:#4169E1;
+}
+.tgh{
+    
+    margin-top: 4%;
+    
+    margin-left: 13%;
+    border-radius:20%;
+}
+.fg{
+    color:white;
+    font-size:138%;
+    margin-top:80px;
+    font-weight:700;
+    text-align: center;
+}
+.ghy{
+    color:white;
+    margin-left:5%;
+    
+    font-weight:700;
+    margin-top:5%;
+}

@@ -1,5 +1,5 @@
 
-
+/*css for box1 content*/
 .za{
     color:black;
     font-size:205%;
@@ -8,20 +8,24 @@
     font-weight:700;
     margin-left:13%;
 }
+/*css for another content*/
 .za1{
     color:white;
     font-weight:700;
     margin-left:13%;
 }
+/* css for bacground image*/
 .sm1{
     background-image: url("banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     opacity:1.5;
 }
+/*css for box2 background color*/
 .sm2{
     background-color:#4169E1;
 }
+/*css for button*/
 .tgh{
     
     margin-top: 4%;
@@ -29,6 +33,7 @@
     margin-left: 13%;
     border-radius:20%;
 }
+/*css for box2 content*/
 .fg{
     color:white;
     font-size:138%;
@@ -36,6 +41,7 @@
     font-weight:700;
     text-align: center;
 }
+/*css for progress bar*/
 .ghy{
     color:white;
     margin-left:5%;
